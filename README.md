@@ -14,8 +14,5 @@ CSS3 – Styling and layout.
 How to Run
 Clone this repository:https://github.com/Harish-Kuppusamy/Simple-portfolio-website.git
 
-bash
-Copy
-Edit
-git clone 
+
 Open index.html in any web browser.
