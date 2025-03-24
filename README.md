@@ -12,7 +12,7 @@ HTML5 – Page structure and content.
 CSS3 – Styling and layout.
 
 How to Run
-Clone this repository:
+Clone this repository:https://github.com/Harish-Kuppusamy/Simple-portfolio-website.git
 
 bash
 Copy
